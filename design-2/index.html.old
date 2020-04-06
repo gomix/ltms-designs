@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="css/design-1.css">
+</head>
+<body>
+	<main>
+		<img src="imagenes/test-1.png">
+		<h2>CMCMax</h2>
+		<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh. </p>
+	</main>
+
+	<div class="social">
+		<img src="imagenes/facebook.svg">
+		<img src="imagenes/instagram.svg">
+		<img src="imagenes/linkedin.svg">
+		<img src="imagenes/twitter.svg">
+		<img src="imagenes/whatsapp.svg">
+		<img src="imagenes/youtube.svg">
+	</div>
+	<hr>
+	<div class="ads-bar">
+		<div class="ads">
+			<img src="imagenes/ads.svg">
+			<p><b>Lorem ipsum dolor sit amet,</b><br>
+			Lorem ipsum dolor sit amet, consectetuer </p>
+		</div>
+		<div class="ads">
+			<img src="imagenes/ads.svg">
+			<p><b>Lorem ipsum dolor sit amet,</b><br>
+			Lorem ipsum dolor sit amet, consectetuer </p>
+		</div>
+	</div>
+</body>
+</html>
